@@ -58,6 +58,6 @@ topbar-user {
     width: 100px;
 }
 .topbar-user img:hover {
-    border-color: gold;
+    border-color:aqua;
     box-shadow: 0 0 10px 2px silver;
 }     
